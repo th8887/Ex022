@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ex022</string>
+    <string name="press_2_type_show_message"><![CDATA[press 2 type & show message]]></string>
+    <string name="double_type_show"><![CDATA[double type & show]]></string>
+</resources>
